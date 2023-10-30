@@ -1,0 +1,42 @@
+[
+  {
+    "map": "001",
+    "mapper": "Beautemps",
+    "type": "Main",
+    "points": 3,
+    "stars": 1,
+    "relesead": "Released at 2023-07-19"
+  },
+  {
+    "map": "002",
+    "mapper": "Beautemps",
+    "type": "Main",
+    "points": 5,
+    "stars": 2,
+    "relesead": "Released at 2021-04-23"
+  },
+  {
+    "map": "Brexamus",
+    "mapper": "Nareem",
+    "type": "Hard",
+    "points": 12,
+    "stars": 3,
+    "relesead": "Released at 2021-10-24"
+  },
+  {
+    "map": "Bubbly1",
+    "mapper": "Windy, Omesurion",
+    "type": "Main",
+    "points": 7,
+    "stars": 3,
+    "relesead": "Released at 2021-10-08"
+  },
+  {
+    "map": "BumM2",
+    "mapper": "BumM",
+    "type": "Main",
+    "points": 3,
+    "stars": 1,
+    "relesead": "Released during a sunset"
+  }
+]
