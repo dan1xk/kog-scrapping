@@ -1,4 +1,5 @@
 const puppeteer = require("puppeteer");
+const fs = require("fs");
 
 (async () => {
   const browser = await puppeteer.launch({
@@ -48,7 +49,6 @@ const puppeteer = require("puppeteer");
 
   await browser.close();
 
-  const fs = require("fs");
   fs.writeFileSync("maps-data.json", JSON.stringify(mapsData, null, 2));
   console.log("Map data extracted and saved to maps-data.json");
 })();
