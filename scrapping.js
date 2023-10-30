@@ -31,7 +31,7 @@ const puppeteer = require("puppeteer");
         ".card-body li:nth-child(1) .bi-star-fill"
       ).length;
 
-      const relesead = mapElement.querySelector(".card-footer").innerText;
+      const releasead = mapElement.querySelector(".card-footer").innerText;
 
       maps.push({
         map: mapName,
@@ -39,7 +39,7 @@ const puppeteer = require("puppeteer");
         type: type,
         points: points,
         stars: stars,
-        relesead: relesead,
+        releasead: releasead,
       });
     });
 
