@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/M8wzyb7.png" width="300" height="170" alt="KOG"></p>
+<p align="center"><a href="https://kog.tw" target="_blank"><img src="https://i.imgur.com/M8wzyb7.png" width="300" height="170" alt="KOG"></p>
 <h1 align="center">KoG - Simple Web scraping of maps</h1>
 <em><h5 align="center">(Programming Language - Javascript)</h5></em>
 
