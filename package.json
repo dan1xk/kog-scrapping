@@ -7,7 +7,7 @@
     "start": "node scrapping.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "dan1xk",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^21.4.1"
